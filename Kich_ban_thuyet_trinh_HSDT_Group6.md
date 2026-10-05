@@ -44,7 +44,7 @@
 
 ## Mở đầu (0:00 → 0:45) · Slide 1–2
 
-> Kính chào tổ chuyên gia. Chúng tôi là Công ty TNHH Group 6.
+> Gioi thieu Công ty TNHH Group 6.
 >
 > Đề xuất của chúng tôi cho gói phát triển website thương mại điện tử ABC Wear: giá dự thầu 1.300.000.000 đồng, sau giảm giá 5% còn 1.235.000.000 đồng. Thời gian thực hiện từ ngày ký hợp đồng đến cutover ngày 01 tháng 7. Bảo hành 12 tháng.
 >
